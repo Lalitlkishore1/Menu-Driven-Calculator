@@ -1,0 +1,43 @@
+Project Overview
+This project is a Menu Driven Calculator developed using Python. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division through a simple text-based menu. The program runs continuously until the user chooses to exit.
+
+Objectives
+Build a simple calculator using Python
+Understand menu-driven programming
+Practice loops and conditional statements
+Perform basic arithmetic operations
+
+Tools & Technologies
+Python 3
+VS Code / IDLE
+
+Project Description
+The calculator displays a menu with multiple arithmetic options.
+The user selects an operation, enters two numbers, and the calculator displays the result.
+The program continues to execute until the user selects the Exit option.
+
+This project is beginner-friendly and helps strengthen core Python concepts such as:
+while loops
+if-elif-else conditions
+User input handling
+Basic error checking (division by zero)
+
+Algorithm
+Display the calculator menu
+Read the user’s choice
+Take two numerical inputs
+Perform the selected operation
+Display the result
+Repeat until the user exits
+
+Features
+Menu-based user interaction
+Supports four arithmetic operations
+Continuous execution until exit
+Handles division by zero gracefully
+
+Result
+The calculator successfully performs all selected arithmetic operations and exits cleanly when prompted.
+
+Conclusion
+This mini project demonstrates fundamental Python programming concepts using a menu-driven approach. It is ideal for beginners learning control structures, loops, and basic input/output operations.
